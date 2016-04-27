@@ -1,0 +1,40 @@
+184 Sedi‘ionum Conicarum Lib. V.
+
+PROP. X.
+
+Μ’ ,¹3⁷1 Si duae rectae ΗΡ, HQcontingant sectionem conicam vel
+sectiones oppositas ; recta HF, quae per concursum contin-
+gentium tc alterurn focorumF ducitur, bifariam secabit
+angulum QP, comprehensum rectis, quaea punctis con-
+tactus ad eundem focum ducantur, cum recta ΗΡ, HQ
+contingunt eandem sectionem, angulum vero KF P qui
+deinceps est angulo QP, cum contingunt sectiones op-
+positas.
+
+F
+
+’,. lT recta DX directrix sectionis foco Fpropior,cuijungenaoon·
+tactus Ql' occurrit in B, et axis in D, dr sitAvertexaxis interF
+etl), per H concursum contingentium ducatur diameter occurrens
+ipsr QP in L, et srt vertex ejus V, occurrat recta HF sectioni in E, 1
+, et quoniam in Ellipsr aut Hyperbola quarum centrum fite, CF,
+CA, CD, ὅτ etiarn CH, CV, CL, sunt proportionales, dr in Para-
+bola FA, AD et etiam LV, VH sunt aequales, ct rectae DX, LP
+sunt ordinaris diamctorum DF, HL parallelae, et recta HF transit
+tam per punctum F, quam per punctum H, prout haec recta sec-
+tioni iterum occurat in G, vel solummodo in E, (cum srt asymp-
+toto parallela,) contingens per Educta occurret vel contingenti
+ductae per G vel asymptoto ipsr HF parallelae, tarn ad rectam DX,
+quam ad rectam Q? (prus dc 6. hujus) ergo contingens ducta perE
+occurret directrici in B, igiturjuncta FB erit perpendicularis ipsr
+EF G (per Cor. 3, praeccd.) ergo anguli EFB, GFB sunt aequales;
+sed (producti QF adK) erit in Fig. 18.angulus PFB aequalis
+KFB, (per Prop. praec.) igitur angulus PFG est aequalis angulo
+EFK ideoque angulo QFG, dr similiter in F ig. ¹7· quoniam anguli
+PFB, QFBsuntaequales, angulus PFG est aequalis angulo QFE
+ideoque angulo ΚΕ G : ergo constat propositum. QE. D.
+
+PROP.
+
+ 
+

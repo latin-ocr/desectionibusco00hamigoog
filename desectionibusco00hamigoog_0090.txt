@@ -1,0 +1,44 @@
+&Hionum Conicarum Lib. 1. 6 3
+
+err quatuor Hyperbolis conjugatis ad unam asymptoton & alteri
+asymptoto parallelae ; ipsae ducrae erunt inter se reciproce ut seg·
+menta apseiffa inter ipsas et centrum: et proinde Hyperbola et
+asymptoti in infinitum productae ad seipsas proprius accedunt, uc ad
+intervallum proveniunt minus quolibet dato intervallo„
+
+Con. VI. Si per punctum A in Hyperbola TAO, ducatur recta
+occurrens Hyperbolis conjugatis BMS, HNX in punctis K dc H ε
+rectangulum KAH erit duplum quadrati ex semidiametro CMquae
+ipfi KH est parallela. Ducatur enim per A semidiameter CA,
+erit haec semidiameter secunda Hyperbolarum BMS, HNX, (Cor.
+2. 44. hujus) ergo per Prop. 41. rectangulum KAH erit ad
+quadratum ex CA bis sumptum, ut* quadratum ex CM nd qua-
+dratum ex ipsa CA: ergo tectangulum KAH est duplum'quadrati
+ex CM.
+
+enon xnvt..
+
+si per punctum in Hyperbola ducantur duae tectae inde· ’
+
+finitae asymptotis parallelae, &occurrentes cuivis diame-
+tto; erit semidiametet media proportionalis inter seg-
+menta diametri intercepta inter centrum, tc rectas qui-
+
+bus occurrit.
+
+. ER punctum Ᾰ Hyperbolae TVO, ducantur rectae DE, FG Fre. 39·
+asymptotis CY,CZ paralleiae, δι occurrant primum diame-
+tro transvetst LCV in P, Q punctis,erunt CP, CV, CQ pro.
+
+rtionales.
+poNam occurrat FG asymptoto CY in X, δι apnnctis V, P, du-
+cantur ad CY rectu Vr, PS parallciae ipsi FG seu CZ, erit Ps
+aequalis ipsi AX; propter parallelas erit CS ad Cr, ut (SP seu)
+ΧΑ ad rV, hoc est (per Cor. 5. praec.) ut Cr ad CX: ergo qno-
+niam CS, Cr, CX, fint proportionaleS, erunt, propter parallelas,
+
+ipsae CP,CV& CQproportionales. ἱ
+Occurrant
+
+ 
+

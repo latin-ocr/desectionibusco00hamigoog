@@ -1,0 +1,44 @@
+sectionum (Ionicarum Lib. s. 49
+
+Pars 3. Vei st recta XT occurrens asymptoris in X, T, oon¹
+veniat cum Hyperbosa in V, ὅτ sint segmenta VX, VT aequalia,
+recta continget Hyperbolam iu puncto V. ,
+
+Namsi ei occurreret in alio puncto puta p, segmentum T p,
+aequale esset segmento VX, (per partem prim.) hoc est ipsi VT,
+quod est absurdum: Ergo non occurrit Hyperbolae nisi in V, ergo
+ipsam contingit, nam non cadet ex una parte tota intra Hyperbo-
+lam, quia ponitur occurrere utrisque dus asymptotia. QE. D.
+
+Con. Ι. Asymptoti concurmnt in centro Hyperbolam, nam
+ducantur duae rect'ae ΟΒ, HG inter se parallelae, secantes Hy·
+perbosam in punctis S, R be a,t bt occurrentes asymptotis ¹in
+punctis QP bc H, G, ὅτ per occursum asymptotorum C duca-
+tur CVbisariam secans rectam QP in Ο, haec quoque bifariam
+secabit rectam HG, (per 2 Cor. 4. 6.) in puncto q, sed cum seg·
+menta RP, SQ ut etiam tG‚ aH aequalia sunt, reeta CV bifariam
+secabit ipsas SR, ar Hyperboid terminatas: ergo haee recta est
+diameter transversa Hyperborea, eodem modo ostendi potest, aliam
+rectam per occursum asymptotorum ductam esse diametrum trans·
+versam. Ergo asymptoti concurrunt in centro Hyperbolarum.
+
+Con. ΙΙ, Omnis recta LCV ducta per centmm, δι intra angu-
+lum HCG Hyperbolam continentem est diameter transversa, narn
+quaevis recta ducta ipst LCV parallelo bt in plano Hyperbolamm
+
+Ι necessario occurret lateribus anguli, qui deinceps est angulo HCG,
+
+bt ergo occurret oppositis Hyperbolis (Cor. 4. adDes. 2 5.) ergo
+ipsa LCV huic rectae parallela occurret (Cor. 3. ad Def. Secr.) op-
+positisHyperbolis ; sed transit per centrum, ergo est diameter trans-
+versa per Des. 19.
+
+Coa. 111. Omnis recta MN ducta per centrum, ἃ intra angu-
+lum qui deinceps est angulo HCG Hyperbolam continenti, est dia-
+
+meter secunda. Nam per punctum quodvis Ο intra Hyperbolam,
+ducatur recta ipsi MN parasse& patet eam occurrere latppiibuls¹
+gur
+
+ 
+

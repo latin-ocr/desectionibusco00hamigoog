@@ -1,0 +1,41 @@
+192 Senium Conicarum Lib. V.
+
+PROP. XV.
+
+Sia vertice axis transversi Ellipseos, aut Hyperbolae, vel
+axis Parabolae, ponatur in axe recta ipsrus parametro
+aequalis; circulus circa hanc tanquam diametrum des-
+criptus cadet totus intra sectionem: fi vero a vertice
+axis minoris Ellipseos ponatur recta ipfius parametto
+
+aequalis, circulus hac diametro descriptus cadet totus extra
+sectionem.
+
+Fre. 23, SIT AB axis transversus Ellipseos aut Hyperbolae, vel axis Pa·
+24‚ 25» rabolae, δι ponatur in axe recta AC ipfius parametroaequulis3
+²⁶' circulus circa diametrum AC descriptus cadet totus intra sectio·
+
+nem; vel sr AB fuerit exis minor Ellipseos cadet circulus totus
+extra sectionem.
+
+Ducatur enim AD axi perpendicularis ipsrque AC zqualis δε
+jungatur cl), ὅτ in Ellipsr ὅτ Hyperboln jungatur etiam BLD, in
+Parabola vero ducatur DL axi parallela ; dc per quodvis in circulo
+punctum E ducatur EF ipsr'AD parallelo sectioni occurrens in G,
+ipsis autem AB, CD, LD occurrens in punctis F, K, H. Quoniam
+igitur equales sunt AC, AD, aequales erunt FC, ΕΚ, dc propter
+circulum esi quadratum ex EF aequale rectangulo AFC, hoc est,
+ipfi AFK. propter sectionem vero est quadratum ex GF aequale
+rectangulo AFH (seiz. per Propp. 1. 4. 5. lib. 2.) est autem ΚΡ
+minor ipsu FH, fi AB non fit axis minor Ellipseos in quo casu est
+KF major ipsd F H, quare est recrangulum AFK minus ipso AF H,
+in primo casu, ideoque quadratum ex EF minus erit quadrato ex
+GP, δι recta EF minor ipsa GF & propterea est circulus totus
+
+intra sectionem : et similiter in altero casu ostendetur circulum esse
+totum extra eandem. Q E. D.
+
+Con.
+
+ 
+

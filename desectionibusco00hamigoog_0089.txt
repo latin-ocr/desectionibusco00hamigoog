@@ -1,0 +1,46 @@
+62 Seii'rfonum Conicarum Lib. Ι.
+
+jungantur enimv. M vertices diametrorum conjugatarum, erit
+jungens parallela uui asymptoto‚ et ab altera bifariam secta iu D,
+
+et (per Cor. r. Prop. 43.) eruut rectangula ΑΕΟ, VDC aqualia, ut
+et rectaugula F GC, MDC; sed rectaugula VDC, MDC aquantur,
+
+et ergo rectanguaauq F GC aqualia sunt. ' ἐξ. E. D.
+
+Coa. 1. Hinc, erunt parallelogramma Auca, FGCg, aqualia,
+ut in Cor. 2. Prop. 43.
+
+Coa. ΙΙ. Hinc etiam, fiduae quavis recta PR, pr, contingant
+eandem Hyperbolam vel oppolitas, vel adjacentes Hyperbolas &
+'occurrant asymptotis in P, R, et p, r, punctis; triangula PCR,
+pCr, oontenta inter contingentes et segmenta asymptotorum, erunt
+inter se aqualia. , Nam a punctis contactuum A, F, ducantur ΑΕ,
+Ae et FG, Fg asymptotis parallelae; tum propter PA, AR aquales,
+. eruut PE, EC, et etiam Cr, eR aquales: ergo triangulum PCR est
+duplum parallelogrammi AECe; eodem modo ostendetur trian-
+gulum pCrlelle duplum parallelogrammi FGCg: sed hac paralle-
+logramma aquantur (Cor. praec.) ergo ipsa triangula aquantur.
+
+Coa. Ill. Hinc etiam, srrecta Hyperbolis adjacentibus termi-
+nata, fit uni asymptoto parallela; erit ab altera bifariam secta.
+Sit enim recta AB Hyperbolis adjacentibus terminata& parallela
+asymptoto CZ, et uecturat ipfi CY in E; quoniam per hanc
+Prop. rectangula Aac, BEC suut aqualia, erunt ipsae recta ΑΕ,
+ΕΒ ae'quales, ut patet. , ’
+
+Coa. lV. Et contra, sr AB Hyperbolis conjugatis terminata srt
+bifariam secta asymptotoCY 3 erit alteri asymptoto CZparallela. Nam
+sr non, duci potest recta a puuatoA ad punctum aliquod Kin Hy-
+perbola adjacente recta parallela ipfi CZ, haec rocta AK ab asymp-
+rot'o' CX quoque'bifariar'u secabitur (per Cor. p'raeced.) ergo asymp-
+toton CY erit parallela recta vjuugeuti duo puncta B, K in Hyper·
+bola (per 2. 6.) quod fieri nequit: Cor. 3. ad Del. 25.
+
+·ffla..v.1Ex'hachp. et Cor. a. Prop. 43. pater, quodsr du-
+rantur duae recta apunctis in eadem Hyperbola, vel iu duabus
+
+CX
+
+ 
+

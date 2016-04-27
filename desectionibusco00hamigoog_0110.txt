@@ -1,0 +1,25 @@
+Sestionum Conicarum Lib. ΙΙ. 81
+
+triangulo FLF, datus est ex Hypothefi angulus LFE‚ et est an-
+gulus ELF aequalis angulo dato CBA, specie dabitur triangulum
+ELF (per 40. Dat. Euclidis) ergo datur ratio FE ad EL; eodem-
+que modo in triangulo EMH, dabitur ratio ΕΗ, ad EM; quare
+
+datur ratio ex hisce compofita‚ hoc est (per 23. 6.) ratio rectan-
+guli FEH ad rectangulum LEM.
+Eodem modo ostendetur rationem rectanguli OEN ad rectan-
+
+gulum GEK, datam effe. Sed datur ratio rectanguli LEM ad ·
+
+rectangulum OEN (per Cor. 1.) ergo, quoniam ostensum est
+datam effe rationem rectanguli FEH ad ipsum LEM, et ra-
+tionem ipfius LEM ad OEN, ipfiusque OEN ad rectangulum
+GEK; dabitur (per 8. Dat. Euclidis) ratio rectanguli FEH, nd
+
+rectangulum GEK,
+In propofitione et hocce Corollario fufius demonstrantur omnes
+
+casus Lemmatis1‘7. lib. 1. Phil. Nat. Princ. Math.
+
+ 
+

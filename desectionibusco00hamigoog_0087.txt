@@ -1,0 +1,49 @@
+· 60 Sestinum Conicarum Lib. Ι.
+
+MN srt diameter transversa& LV diameter secunda ipst MN
+conjttgata; hae quatuor Hyperbolae dieunturHyperbolae conjugatae.
+
+Con. Ι. PatetHyperbolis conjugatis idem effe centrum C, nempe
+
+’ intersectionem diametrorum LV bc, MN, δι communes asymp-
+
+Fre. 38.
+
+tot0s; nam manentibus quae in definitione posrtaefuerunn jungatur· ,
+
+VM δι ducatur CY ipsam VM bifariam secans in D, et CZ ipsr VM
+parallela; &quoniam LV, MN sunt diametri conjugata utriusque
+Hyperbolae TVO, KMS, rectae CY, CZ sunt asymproti Hyperbolae.
+TVO et ejus opposita, et etiarn Hyperbolae KMS ipfi TVO con-
+
+jugata dc ejus oppofitae HNX, per Cor. 3. 38. hujus.
+
+Con. ΙΙ. Qoniam Hyperbolae conjugatae communes habent
+
+asymptot0s3 patet ex propositione 36. quod sr recta oppositis Hypet-
+boiis terminata, contingat Hyperbolam iis conjugatam· in puncto
+contactus bifariam secabitur. Vel st occurrat Hyperbolae conjugatae
+in duobus punctis, segmenta ejus inter hanc Hyperbolam dc Hyper
+
+bolas oppositas erunt aequalia
+
+PR O P. XLIV.
+
+Si ducatur diameter secunda cujusvis Hyperbolae3 erunt ver·
+tices ejus in Hyperbolis isti Hyperbolae conjugatis.
+
+INT Hyperbolae conjugata, quarum sunt LV, MN diametri
+communes conjtrgatae, ut in definitione praecedente‚ &sint
+asymptoti communes CY, CZ‚ &jungatur VM asymptoto CY
+occurrens in D, et ducatur BCb diameter secunda Hyperbolae TVO;
+erunt vertices ejus B, b, in Hyperbolis conjugatis ipsr TVO.
+Nam ducatur semidiameter CA ipfi CB conjugata, &jungatur
+AB occurrens asymptoto CY in E, erit bifariam secta in E, &alteri
+
+, asymptoto CZ parallela (Car. 1. Prop. 38.) δι proinde parallela ipsr
+
+MV3 propter aequales BE, EA erit rectiangulum BEC aequale rectan-
+' gulo
+
+ 
+

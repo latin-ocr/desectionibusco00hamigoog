@@ -1,0 +1,37 @@
+Sebi'ionum Conicarum Lib. I-. 11
+
+ΕΡ ad DP, ut ΒΜ ad AM, & erit PF ad PH, ut ΒΜ ad MC,
+
+ergo (ducendo antecedentes unius ordinis proportionalium in an-
+tecedentes alterius & consequentes in consequentes) erit rectangu-
+lurn EPFad rectangulum DPH, ut quadratum ex ΒΜ ad rectangu·
+lum AMC (per 23. 6.) sed propter DOHG &Asc circulos, erit
+rectangulum DPH equale tectangulo OPG vel quadrato ex PT, δι
+rectangulurn AMC aequaie rectangulo KML (per 3 5, ὅτ 36. 3.) est
+igitur rectangulum EPF ad rectangulurn OPG vel quadratum e'x
+PT, ut quadratum err ΒΜ, ad rectangulurn KML, ubicunque cadat
+punctum P rectarum BF, OG occursutr
+
+Si vero recta EF ipsi ΒΜ natalicia, occurrat in P rectae PB basr
+coni parallelae u per verticem ooni transeunti; eodem prorsus modo
+(ob similia triangula EPB, BMA; ot FPB, BMC) ostendetur recten·-
+gulurn EPF eise ad quadratum ex PB, ut quadratum ex ΒΜ ed rec-
+ungulum AMC, hoc est, KML.
+
+Secundo, caeteris manentibus ueprius, contingat nunc recta PF ΡΝ· ¹4·
+superficiem in F; per contactum F ducatur latus coni occurrens
+best in N·, pianum transrens per parallelas PF, ΒΜ continget
+tuperficiem in recta BFN (cor. 3. 32 hujus) ὅτ interfectio ejus MN
+curn planobasrs, continget basim in N ; stt recta PT interfectio
+ejusdem plani cum plano circuli OTG in quo est punctum P, haec
+recta continget circulum OTG in Tpuncto sciz'. in reeta BFN, ὅτ
+erit parallelo ipsr MN (per 16⁴ rr.) ergo propter ssmssie triangula
+FP'I', BMN, quadratum err PF erit ad quadratum ex PT vel rec*
+ungulum OPG, ut quadratum ex BM od quadratum ex BN,
+
+five, rectanguluur KML. Ι QE. D.
+
+PROP.
+
+ 
+

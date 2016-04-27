@@ -1,0 +1,46 @@
+84 Sestionum Conicarum Lib. ΙΙ.
+
+Con. 1. Si a puncto Ellipseos ant Hyperbolae ducatur ad diame-
+trum (quae in Hyperbola est transversa) recta ei ordinatim applicata;
+rectangulum contentum abscissis diametri inter vertices ejus, Ιὅτ
+ordinaram, erit ad quadr atum ex ordinata, ur ipsa diameter ad ejus
+parametrum. Nam per Cor. 1. 3¹· δι Def. ²4· lib. 1. hoccerec-
+tangulum est ad quadratum exordinata, ut quadratum ex ipsa
+
+, diametro ad quadratum ex ejus conjugata, hoc est, ut ipsa diameter
+
+ad ejus parametrum‚ per Det praec. ὅτ Cor. 20.·6. ·
+
+Con. ΙΙ. Si a puncto Hyperbolae ducatur ad diametrum seeun-
+dam recta ei ordinatim applicara; erit summa quadratorum ex
+semidiametro secunda, et ejus segmento inter centrum δι ordina-
+tam, ad quadratum ex ordinata, ut (quadratum ex ista diametro
+secunda, ad quadratum ex diametro ipsi conjugata per Prop. 32.
+lib. ι. hoc est ur) ipsa diameter secunda ad ipsius parametrum per
+Def. praec. & Cor. 20. 6.
+
+enon. ι.Ι
+
+Qadrata rectarum quae diametro Parabolae ordinatim appli-
+
+’ cantur aequalia sunt rectangulis contentis diametri absciffis
+&ejus parametm. ,
+
+Puncto Parabolae B ducatur recta BG ordinatim applicata
+
+diametro FL cujus vertex est F, δι stt rectaP tertia pro-
+portionalis absciffae GF & ordinatae BG, erit haec parameter
+diametri FL per Des. 1. hujus, ἃ erit quadratum ex BG aequale
+rectangulo GF intectam P; fi nunc ducatur quaevis alia recta
+DL ordinatim applicata diametro FL, per Prop. 2 9. lib. ι. quadra-
+rumex DL est ad quadrarum ex BG, ut LF ad GF, hoc est, ut
+rectangulum LF in P, ad rectangulum GF in P; ergo quadratum
+ex DL estad rectangulum LF in P, ut quadratum ex BG ad¹ rec-
+
+ungulum GF in P, hoc est,in ratione aequalitatis. Et inde Apollonius
+hanc lineam Parabolam nominavit. . QE. D.
+
+Con.
+
+ 
+

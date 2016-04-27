@@ -1,0 +1,44 @@
+Sestionum Conicarum Lib. Ι. 61
+
+gulo AEC‚ hoc est VDC (per Cor. 1.Prop. praee.) srve rectangulu
+MDC (ob aequales VD, DM) ergo cum punctum M fit in Hyper.
+bola KMS dc reetae MD, BE ssnt parallelae asymptoto CZ, dc rec-
+tangula MDC, BEC fint 'aequaliu erit punctumB in eadem Hy-
+perbola KMS (Cor. 3. Prop. prrec.) et vertex ejus alter b erit in
+Hyperbola HNX ipsr KMS opposrta„
+
+Cor. Ι. Hinc fi ad vertices duarum diametrorum conjugatarum
+CA, CB ducantur reetae contingentes Hyperbolus conjugatas, fibi
+invicem occurrent ad asymptoton CY, cui recta jungens vertr'ees
+A‚B occurrit; nam per A ducatur recta contingens Hyperbolum
+TVO occurrens asymptoto CZ in R, dc CY in P, dc jungatur-PB
+occurrens asymproto CZ in Q quoniam PAR contingit Hyper-
+bolam, erunt PA, AR aequates (36. hujus) ergo propter parallelas
+
+Ἴ RQ AB (Cor. r.·Pr0p. 38².) aequales sunt PB, BQ Ergo recta
+
+PBQcontingit Hyperbolum in B(perPr0p. 36.) dr proinde con-
+tingentes per A‚B ductae occurrunt in puncto Pad asymptoton
+
+cYC'ort. 11. Hine etiam, diameter quaevis secunda Hyperbolae est ⁴
+
+diameter transversa Hyperbolae conjugatae 3 ὅτ vice versa. Ι
+
+·PROP. XLV.
+
+Si aduobus punctis in Hyperbolis conjugatis, ducantur ad
+eandem, vel diversas asymptotos, duae rectae asymptotis
+
+¹ parallelae 3 erunt rectangula contenta ductis, dc abseiffis ·
+inter ipsas dt centrum, aequalia.
+
+IN T Hyperbolae eonjugatae, quarum asymptoti sunt CZ, CY, Fre. 38.-
+et a punoto in una Hyperbota A, ducatur ΑΕ ad asymptoton
+CY, parallela ipsr CZ, et a puncto F in Hyperbolu conjugata,
+ducatur FG ad unam asymptoton, et alteri parellelu; erunt rec·
+tangulaAEC, FGc, inter scemata„
+
+jungantur
+
+ 
+

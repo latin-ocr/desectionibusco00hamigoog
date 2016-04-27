@@ -1,0 +1,42 @@
+Senianum Conicarum Lib. Ι. 53
+
+¹ ¹ onor. xronx.
+
+Si per punctum in asymptoto ducatur recta secans Hyper·
+bolam, vel utrasque Hyperbolas; rectangulum conten-
+tum segmentis secantis inter asymptoton dc Hyperbo-
+lam, vel Hyperbolas, etit aequale quadrato, quod fit ex
+semidiametro quae isti secanti est parallelo.
+
+RI M 0: a punctoP in asymptotoCG, dueatur recta se· F10.32.
+cans Hyperbolam in punctisR‚ S, ὅτ fit CN semidiameter
+secunda ipfi PRS parallela; erit rectangulum RPS aequale qua-
+drato ex contingentis segmento VX (pet37. huj.) hoc est, qua-
+drato ex ipsa CN per praecedentem.
+
+Secundo: per idern punctum P ducetur recta secans oppo-
+sitas Hyperbolas ιη R,s punctis, tit LCV diameter transversa
+ipsi RPS parallelo, δι ducatur in plano contingente ADG recta
+PK parallelo ipsr CA interfectioni -planorunr contingentium
+ADG‚AEH δι occurrens lateri c'oni AD in K'; patet hanc PK
+contingere superficiem coni B'A'F in K, ὅτ effe ipsi CA aequa-
+lem; quoniam ergo recta PK contingit superficiem conicam dr
+recta PRS secat utrosque superficies ὅτ hae rectae sunt parallelae
+duabus rectis CA, LV occurrentibus ιη C, quarum una CA per
+
+verticem coni transit ὅτ proinde superficiein contingit in A, dc
+altera secat utrasque superficies, erit (per 11. huj.) rectangul'uns
+
+RPS ad quadratum ex PK, ut rectangulur'n VCL ad quadratum
+ex CA: sed aequanmr quadrato ex PK, dt CA3' ergo rectangu- =
+lum RPS aequale est (14. 5.) rectangulo VCL, hoc est, ‘qna-
+drato ex CV vel CL semidiametro transverse ipsr RPS parallelae.
+
+Comi Velsi per punctum R in Hyperbola, ducetur recta.
+asymptotis occurrens in duobus punctis P, Q erit rectangulum·
+PRQ contentum segmentis inter Hyperbolam ὅτ asymptoros‚
+
+aeqnai'e·
+
+ 
+

@@ -1,0 +1,35 @@
+Ι108 δἐᾶίοηκνη (Ionicarum Lib. ΙΙ.
+
+sam EN, quae est igitur dimidium istius parametri. Hujusmodi
+segmentum axis EN, dicitur Submrmalis.
+
+Pars a. Propter roctangula triangula TPN, TEP similia, erit
+tectangulum TE in TN equale quadrato ex ΤΡ, hoc est, rectan- ἲ
+gulo contento TA in patametmm diametri DQ, (Prop. 2. huj.)
+est ergo ut TE ad TA, ita parantetet diametri DQad ipsam
+TN, quae est igitur dimidium istius parametri. QE D.
+
+Con. l. Hinc, staverticeP cujusvis diametri Q) ducatur recta ¹
+PF ad focum, erit quarta pars parametri istius diametri. Nam,
+ducti. contingente PT, quoniam diameter DQest perpendicularis
+ad directricem Parabolae, erit angulus ΡῬΤ aequalis angulo DPT p
+(15· huj.) hoc est, angulo alterno ΠΡ, ergo aequales sunt FP, F T;
+s1 igitur centroF describatur circulus per puncta T‚P transibit
+etiam per N propter angulum TPN rectum est igitur recta PF
+dimidium ipfins TN, dt ergo est quarta pars parametri diametri
+
+· DQ per partem 2. Propofitionis.
+Vide Neron Princ. Math. Lem. ¹3· lib. r.
+
+Con. 2. Et hinc, segmentum diametri inter verticem ejus dt di-
+rectricem est quarta pars ipsius parametri, ut patet ex· (Corvpraec.
+·& rr„ huj.) st vero punctum P ellet uertex onisconstatutaumqne
+Corollarium ex Definitione foci.
+
+Coa. lll. Hinc, strecta jungens vertices duarum'diametromm
+stt axi ordinatim applicata, ipsarum parametri erunt aequales. p
+'Nam ipsarum segmenta inter vertices &directricem sunt aqualia, ¹
+'utpote latera opposita parallelogrammi.
+
+ 
+

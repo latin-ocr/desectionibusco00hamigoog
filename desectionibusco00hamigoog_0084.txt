@@ -1,0 +1,42 @@
+Senianum Conicarum Lib. 1. 37
+
+ex CA ad quadratum ex CL, ὅτ per Prop. 32. erit quadratum .
+ex (Ε ad quadrata ex PC, MC simul, ut quadratum ex CL ad
+quadratum ex CM: ergo ex aequo, erit rectanguium F'PE ad
+quadrata ex PC, CM simul, ut quadratum ex CA ad quadratum
+
+ex CM: *pari ratione erit quadratum ex contingente ΡΟ ad
+quadrata ex PC, CM simul, ut quadratum ex CA ad quadra-
+tumex cM. Q E. D.
+
+PR 0 Ρ. XLII.
+
+Si duae rectae fibi invicem srnt parallelae dt ambae contin·
+gant aut secent, vel earum una contingat, dt altera secet,
+Hyperbolum vel Hyperbolas opposrtas, dt occurrant rectae
+asymptotu parallelae3 quadrata ex earum segmentis inter
+rectam asymptoto parallesam sc contactus, vel rectangula
+sub earum segmentis inter hanc rectam, dc Hyperbolam
+vel Hyperbolas, erunt inter se, ut segmenta istius rectae
+asymptoto parellelae intercepta inter ipsas parallelas, dc
+punctum in quo ista reeta occurrit uni ex Hyperbolis.
+
+AM (per Cor, 1. ὅτ 3. Des. 25.) recta asymptoto paralleli
+
+est parallela lateri superficierum conicarum in quasposrtae
+sunt Hyperbolae,· dr uni ex Hyperbolis in unico puncto'occurrit;
+ergo constat haec Proposrtio per Prop. 19.scc0r. 1. ad Def. Sect.
+
+Con. Ι. Hinc si diameter transversa LV Hyperbolae‚ occurrat in Fre. 36.
+Orectae KH asymptoto CY parallelae occurrenti alteri asymptoto
+CZ in P, δι Hyperbolae in E; erit rectangulum VOL contentum
+segmentis diametri inter vertices ejus δι rectam KH, ad quadra-
+tum ex semidiametro CV, ut OE segmentum rectae KH inter dia-
+metrum & Hyperbolam, ad segmentum ΕΡ ejusdem rectae inter
+Hyperbolum δι asymptoton CZ; ducatur enim per punctu‘m P
+
+recta parallela diametro LV, occurrens Hyperbolis in R, S punctis:
+H turn
+
+ 
+

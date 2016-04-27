@@ -1,0 +1,46 @@
+· ’ De Parabola. 135
+
+quas suntB eth quia D est extra Parabolam) ergo Parabola oc-
+
+, currit rectae DB in puncto A. Quoniam segmentum DE sumi
+potest in recta DGF ad alterutram partem puncti D, duae Parabolae
+describi possunt qua Problemati satisfacient.
+
+' Caſs a Sint B‚,G, F,P quatuor puncta data, ἃ srnt junctae
+GF δι ΒΡ parallelae ; recta MN has parallelas bifariam secans erit
+diameter Parabolae transeuntis per haec quatuor puncta (per Cor.
+6. 25. tib. 1.) describatur igitur Parabola per tria puncta B, G, F‚·
+cujus diametri fint parallelae rectae MN et cum recta BN sit
+ordinatim applicata diametro hujusce Parabolae, et ΡΝ aequalis stt
+
+ipsr BN, tranfibit hac Parabola per punctum P. Patet in hoc
+casu, unicam esse positionem diametrorum Parabolae quae per haec
+¹puncta tranfit, et proinde unicam Parabolam per haec puncta
+
+transire posse.
+
+Coa. Ex construetione hujus, patet methodus inveniendi po
+sirionem diametrorum Parabolae ex quantor punctis in ipsa
+
+datis.
+
+PROP. X ' .
+
+Duae Parabolae, communem habentes axem δε eandem pa· '
+rametrum principalem, in infinitum productae ad se invi-
+
+’ 'cern¹ semper propius accedunt, nunquam vero conveniunt:
+
+ι INT AEF, DCB duae Parabolae communem habentes axern Fig. ¹0,
+' ΕΗ,Ι et fit recta PQutriusque parameter principalis; ducatur
+recta axi ordinatim applicata ei occurrens in G et ¹Parabolre ex-
+teriori in punctis h, F ὅτ 'interiori ’ἰη D. Quoniam qua-
+dratum ex AG aequale est rectanguio GE in· PQ br quadratum
+ex DG est aequale roctangulo GC inPQ erit differentia horum
+quadratorum, hoc est rectangulum ADF (5. a.) aequale, rectangulo
+CE in PQ ergo, ob datum CE in PQ, rectangulum ADF erit
+semper ejusdem magnitudinis, quo vero longius recedit punctumD
+avertree
+
+ 
+

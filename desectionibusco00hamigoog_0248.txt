@@ -1,0 +1,39 @@
+Sefiionum Conicarum Lib. V. 199
+
+AMEL, caditadutrasque partes puncti contaetus C,extrasectionem; 1³:049,
+quoniam igitur quivit circulus sectionem in puncto A contingens
+cadit ad utrasque partes istius puncti vel intra circulum ARC vel
+extra sectionem, patet nullum circulum transire posse inter sec·
+tionem nc circulum ARC; ergo circulus iste, sciz. qui ab axe AB
+abscindit segmentum AC ipsius parametro aequale, eandem habet
+curvaturam cum sectione in punctoAper definitionem precedentem
+Demonstratio est prorsus eadem, cum punctum A est vertex
+axis minoris Ellipseos; pro aanor legendo llsajor, nr pto irata . ’
+extra, et vrce versa
+Cas 2. Sit nunc Ellipfis aut Hyperbola, cuj us axis transversus rm 29
+est AB, bt centrum C ὅτ per punctum D non verticem axis du-
+catur recta DS sectionem contingens &describatur circulus DMK
+banc rectam contingens in puncto D br abscindens a diametro
+CD segmentum DM aequale ipsius parametro ς habebit hic circulus
+eandem curvaturam curn sectione in puncto D. ,
+Ducatur enim a puncto D ad axem transversum ordinatim ap-
+plicata DE, sectioni iterum oocurrens in F, per punctum F duca-
+tursectionis diameter FCG, cui ordinatim applicata stt DH, sec-
+tioni rursus occurrens io L& circulo in K. Ducatut diameter CO,
+ipsa DS parallelo, occurrens ipsi DL ¹in V, ὅτ ducatur semidiameter
+CR ipst CF conjugata occurrens ipsr DS ins, bt ei ordinatim appli-
+cata sttTD : quoniam semidiametri CD, CF sunt aquales, erunt
+ipsarum conjugata CQ CR aqualem stt l'D dimidium ipsius
+MD parametri diametri DCM, et erit rectangulum PDC aequale
+quadrato ex semidiametro CQstve quadrato ex CR, hoc esi rectan-
+gulo scT per 48, nc 49. lib. 1. slve rectangulo VDH, (propter CS, ’
+VD &Cb-l, TD parallelas) quoniam igitur rectangula PDC, VDH
+suntaequalia, ipsorum dupla seiz. tectangula MDC, LDV erunt
+· aequalia: sed tectangulum KDV est quoque aequale rectangule
+MDC (perlemma praecedens) etproinde aquales sunt LD, KD,
+
+'ergo puncta LK, coincidunt, crgo quoniam circulos DKM sec·
+tionem
+
+ 
+

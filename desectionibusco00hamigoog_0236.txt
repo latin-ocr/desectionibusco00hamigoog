@@ -1,0 +1,45 @@
+Sediionum Conicarum Lib. V. · 189
+
+Con. Ι. Si recta quevis TS sectionem conicam contingat, et
+a puncto contactus erigatur perpendicularis ad contingentem oc·
+currens axi transverso sectionis in P, erit ipsa PT recta minima quae
+ab eodem puncto P, duci potest ad sectionem, vel s1 occurrat
+axi secundo ¹Hyperbolae aut Ellipseos in puncto Q erit in Hyperbola
+recta QT minima, δι in Ellipsr maxima, quae abeodem puncto Q
+duci potest ad sectionem, seiz. ad eandem partem axis. Ducatur
+enim apuncm T ad axem transversum, recta ei ordinatim ap·
+plicata, occurrens sectioni iterum in R, ὅτ huic axi occurrat
+contingens TS in S ; eritjuncta SR contingens (Cor. 2. 26. lib. ι.)
+dc aequalis ipsr ST, &erit juncta PR aequalis ips1 PT: ergo mutuo
+
+aequiangula sunt triangula PTS, PRS δι proinde angulus PRS est
+rectus, igitur circulus centro P descriptus transiens per puncta
+T& R continget rectas ST, SR dc proinde sectionem in punctis
+T, ὅ( R, δε igitur iste circulus ,cadet totus intra sectionem, (per
+hanc Prop.) et ergo radius circuli PT est minima recta, quae a '
+punctoP duci potest ad sectionem sciz. ad eandem partem axis.'
+Eodem prorsus modo, eum perpendicularis ad contingentem TS
+
+occurrat axi secundoHyperbolae aut Ellipseos in Q ostendetur ι
+circulum radio (ΣΡ descriptum cudere totum extra Hyperbolus
+
+aut Ellipsrm, ergo constat corollarium.
+
+Δ Con. 11. Si recta TR Ellipsr aut Hyperbold terminata fit axi
+ejus AB ordinatim applicata, et circulus translens per puncta T
+
+et R, contingat sectionem in uno puncto T, eam quoque continget
+in altero puncto R; nam circuli centrum P, erit in axe sectionis
+
+AB, ducatur per T communis contingens TS axi ΑΒ occurrens
+
+in S, angulus PTS (propter circulum) erit rectus, et juncta SR
+sectionem continget, juncta igitur PR, ostendi potest, ut in Cor.
+praec. quod angulus PRS sit rectus : ergo circulus continget, rectam
+
+RS ac proinde, ipsam sectionem in puncto R.
+
+PROP.
+
+ 
+

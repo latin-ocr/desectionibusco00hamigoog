@@ -1,0 +1,37 @@
+. De Ellt'pſs &³ &perhola 147
+
+·PROP. VI.
+
+Qadratum ex summa aequaiium diametrorum conjugatarum
+Eliipseos, est aequale quadrato ex summa duarum q'ua-
+
+rumvis eonjugatarum unacum quadrato ex ipsarum dif
+ferentia. ·
+
+INT rectae GC, CF diametri conjugata aequales Ellipseos, dt Fra 6.
+ΑΒ, BD diametri quaevis conjugatu inaequales, dt fit ΑΕ ipsa-
+
+rum differentia, erit quadratum ex GF aequale quadrato ex AD
+
+s mul cum quadrato ex ΑΕ.
+
+Nam quadrata ex GC, CF bis sumpta sunt aqualia quadratis¹
+ex AB BD bis sumptis (per3. huj) sed quadrata ex GC, CF bis
+sumpta sunt aqualia quadrato ex GF (4. 2.) δι quadrata ex AB,
+BD bis sumpta sunt aequaiia quadrato ex AD, una cum quadratu
+ex Au: nam quadrata ex AB δι BE (slve BD) semel sumpta
+aequantur rectangulo (ABE bis five) ABD bis, um cum quadrato
+ex ΑΕ (7. a.) ergo quadrata ex ΑΒ, δι BD bis sumpta aquantur
+rectanguio ABD bis &quadratis ex AB, BD, dt ΑΕ, hoc est, qua.
+
+drato ex AD (4. a.) unacum quadrato Ιιιι AE: ergo liquet pro:
+positum.
+
+Cor. Hinc, patet quod summa aequalium conjugatarum est
+major, &summa axium minor, summa aliarum quarumvis uon- ,
+jugatum, est enim differentia interutras major quam differem⁴
+
+tia inter duas alias con jugatas, ut patet ex Prop. 8 lib a.-
+
+ 
+

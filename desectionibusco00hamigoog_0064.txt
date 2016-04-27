@@ -1,0 +1,42 @@
+Sediionum Conicarum Lib. I. 41
+
+’ PROP. XXXII.-
+
+Si a puncto Hyperbolae ducatur recta ordinatim applicata
+diametro secundae t ut quadratum ex ea diametro secunda,
+estad quadratum ex diametro transversa ei conjugata, ita
+erit summa quadratorum ex semidiametro secunda do seg·
+
+mento ejus inter centrum dt ordinatam, ad quadratum
+ex ordinata.
+
+Puncto Hyperbotae A ducatur AD ordinatim applicata dia· Fra. ⁰23·
+metro socundae MN, dt stt diameter LV ipsr MN conjugata,
+= erit quadratum ex CN, ad quadratum ex CV, ut quadrata ex CN,
+CD simul, ad quadratum ex AD.
+
+Nam ducatur AO ordinatim applicata ipfi diametro LV, erit
+
+COAD parallelogrammum (per Cor. Prop. 27.) &proinde aequa·
+les sunt AD, OC ut dt AO, DC.
+
+Per Definitionem praecedentem, est quadratum ex CN ad qua-
+dratum ex CV, ut quadratum exano slve) CD ad rectangulum
+vot, ergo (per ιι. 5.) erit ut quadratum ex CN ad quadra-
+tum ex CV,.ita summa quadratorum ex CN, CD, ad quadratum
+
+ex CV& rectiangulum VOL simul, hoe est (per 6. a) quadra-
+tum ex CO, five AD. QE. D.
+
+Con. Hinc, ·sr a duobus punctis in Hyperbola vel oppofitis
+Hyperbolis ducantur dure rectae diametro secundae ordinatim appli-
+catae, erit quadratum ex primo ducta, ad quadratum ex altera, ut
+summa quadratorum ex semidiametro secunda δι distantia primo
+ductae acentro, ad summam quadratorum ex eadem semidiame
+
+tro secunda dt distantia alterius dcentto.
+
+F
+
+ 
+

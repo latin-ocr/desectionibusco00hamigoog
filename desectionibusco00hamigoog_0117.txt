@@ -1,0 +1,52 @@
+Fro- r.
+
+86 Saniorum (Ionicarum Lib. ΙΙ.
+
+PROP. III.
+
+Si recta secans Parabolam occurrat ipsrus diametro; rec·
+tanguium contentum ejus segmentis inter diametrum&
+Parabolam, erit aequale rectangulo contento segmento dia·
+metri inter verticem ejus dc secantem, tc parametro diametri
+
+Ι cui ipsa secans ordinatim applicatur.
+
+ECET rectaParaboiam in punctis A, B, & occurrat diametro
+
+ΕΒ in E, δι sit FG diameter cui AB ordinatim applicatur,
+ejusque parameter P; erit rectangulum ΑΕΒ aequale rectangulo
+ED in P.
+
+Ducatur enim per verticem diametri FG rectaParaboiam con-
+
+t tingens? ὅτ occurrens diametro ED in R, erit parallelo secanti AB
+
+(per Cor. r. 25. lib. 1.) et ergo per Cor. 19. lib. 1. rectanguium
+
+. ΑΕΒ est ad quadratum ex FR, ut ED ad DR,s1ve ut ED inP ad
+
+DR in P 3 ergo permutando, rectangulum ΑΕΒ est ad rectangulum
+’ ΕΙ) in P, ut quadratumjex FR ad rectangulum DR in P, hoc est„ in
+satione equalitatis, per pracedentem.
+
+Corollaria ad duas praecedentes.
+
+Con. 1. Si duae tectae parabolam contingenter sibi invicem
+
+·occurrant; quadrata ex earum segmentis inter contactus δι occur. ,
+Δίιιηη erunt ad se invicem ut parametri diametrorum, quae per
+»contactusutranseunt Nam (ducet diametro per occursum con.
+
+ringentium) quadratum ex alterutra contingente erit aequale rec·
+tangulo contentoparametro diametri quae per ejus contactum
+transit, &eidem recta seiz. segmento diametri inter ipsius verticem,
+‘dr occursum contingentium. · ·
+
+Con. lt. Et fimiliter sr duae rectae Parabolam secantes fibi invicem
+
+1occurrant3 tetrangula contenta segmentis secantium inter earum
+
+§occursum
+
+ 
+
